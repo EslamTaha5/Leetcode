@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/EslamTaha5/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/EslamTaha5/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/EslamTaha5/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/EslamTaha5/Leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/EslamTaha5/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Math
+|  |
+| ------- |
+| [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/EslamTaha5/Leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/EslamTaha5/Leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/EslamTaha5/Leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/EslamTaha5/Leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
+## Bitmask
+|  |
+| ------- |
+| [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/EslamTaha5/Leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 <!---LeetCode Topics End-->
