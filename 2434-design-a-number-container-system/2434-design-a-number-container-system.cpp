@@ -1,7 +1,7 @@
 class NumberContainers {
 public:
-    map<int, set<int>> mp;
-    map<int, int> idx;
+    unordered_map<int, set<int>> mp;
+    unordered_map<int, int> idx;
 
     NumberContainers() {
         
