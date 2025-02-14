@@ -7,17 +7,17 @@ public:
     }
     
     void add(int num) {
-        
+        if(!num){
+            numbers.clear();
+            num = 1;
+        }else num *= numbers.back();
         numbers.push_back(num);
     }
     
     int getProduct(int k) {
 
-        int prod = 1;
-        for(int i = numbers.size() - 1; i >= numbers.size() - k; i--){
-            prod *= numbers[i];
-        }
-        return prod;
+        if(k >= numbers.size()) return 0;
+        return numbers.back() / (numbers[numbers.size() - k - 1]);
         
     }
 };
