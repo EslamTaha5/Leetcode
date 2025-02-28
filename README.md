@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1170-shortest-common-supersequence](https://github.com/EslamTaha5/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/EslamTaha5/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/EslamTaha5/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/EslamTaha5/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [1170-shortest-common-supersequence](https://github.com/EslamTaha5/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/EslamTaha5/Leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 ## Bit Manipulation
 |  |
