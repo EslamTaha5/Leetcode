@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/EslamTaha5/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/EslamTaha5/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/EslamTaha5/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/EslamTaha5/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/EslamTaha5/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/EslamTaha5/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/EslamTaha5/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2434-design-a-number-container-system](https://github.com/EslamTaha5/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/EslamTaha5/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/EslamTaha5/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3227-find-missing-and-repeated-values](https://github.com/EslamTaha5/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/EslamTaha5/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/EslamTaha5/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/EslamTaha5/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/EslamTaha5/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/EslamTaha5/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/EslamTaha5/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/EslamTaha5/Leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/EslamTaha5/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
@@ -129,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/EslamTaha5/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/EslamTaha5/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/EslamTaha5/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+## Matrix
+|  |
+| ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/EslamTaha5/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
