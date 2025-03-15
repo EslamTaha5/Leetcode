@@ -17,7 +17,7 @@ public:
             }
             return cnt >= k;
         };
-        int l = 1, r = 1e9 + 10, mid, ans;
+        int l = 1, r = *max_element(nums.begin(), nums.end()), mid, ans;
         while(l <= r){
             mid = l + r >> 1;
             if(valid(mid)){
