@@ -2,20 +2,21 @@ class Solution {
 public:
     int countDays(int days, vector<vector<int>>& meetings) {
         sort(meetings.begin(), meetings.end());
-        vector<pair<int, int>> v;
-        int l = 0;
+        int ans = meetings[0][0] - 1;
+        
+        int l = -1, r = meetings[0][1];
         for(auto& it: meetings){
-            if(v.empty() || it[0] > v.back().second){
-                v.push_back({it[0], it[1]});
+            if(l == -1 || it[0] > r){
+                if(l != -1)ans += it[0] - r - 1;
+
+                l = it[0];
+                r = it[1];
             }else{
-                v.back().second = max(it[1], v.back().second);
+                r = max(r, it[1]);
             }
         }
+        ans += days - r;
     
-        int ans = days - v.back().second + v.front().first - 1;
-        for(int i = 1; i < v.size(); i++){
-            ans += v[i].first - v[i - 1].second - 1;
-        }
         return ans;
     }
 };
