@@ -6,7 +6,7 @@ class Solution {
 public:
 #define ll long long
     long long goodTriplets(vector<int>& a, vector<int>& b) {
-        map<int, int> mp;
+        vector<int> mp(a.size() + 2);
         ordered_set st;
         for(int i = 0; i < a.size(); i++){
             mp[a[i]] = i;
