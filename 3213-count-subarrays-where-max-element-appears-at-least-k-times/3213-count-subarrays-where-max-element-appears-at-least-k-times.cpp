@@ -13,7 +13,6 @@ int mp[1000002];
             }
             ret += i - j + 1;
         }
-        cout << ret << " " << n << endl;
         return n * (n + 1) / 2 - ret;
     }
 };
