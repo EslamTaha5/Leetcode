@@ -1,7 +1,7 @@
 class Solution {
 public:
 #define ll long long
-int mp[1000002];
+unordered_map<int, int>mp;
     long long countSubarrays(vector<int>& v, int k) {
         ll ret = 0, n = v.size();
         int mx = *max_element(v.begin(), v.end());
