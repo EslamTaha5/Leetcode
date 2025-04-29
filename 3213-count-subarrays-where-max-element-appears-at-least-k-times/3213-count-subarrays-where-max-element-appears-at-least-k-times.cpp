@@ -1,9 +1,9 @@
 class Solution {
 public:
 #define ll long long
+int mp[1000002];
     long long countSubarrays(vector<int>& v, int k) {
         ll ret = 0, n = v.size();
-        map<int, int> mp;
         int mx = *max_element(v.begin(), v.end());
         for(int i = 0, j = 0; i < n; i++){
             mp[v[i]]++;
