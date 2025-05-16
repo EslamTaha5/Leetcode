@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/EslamTaha5/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/EslamTaha5/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/EslamTaha5/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/EslamTaha5/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/EslamTaha5/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/EslamTaha5/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/EslamTaha5/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/EslamTaha5/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/EslamTaha5/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/EslamTaha5/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/EslamTaha5/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/EslamTaha5/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/EslamTaha5/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/EslamTaha5/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -180,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/EslamTaha5/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/EslamTaha5/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/EslamTaha5/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/EslamTaha5/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/EslamTaha5/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/EslamTaha5/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/EslamTaha5/Leetcode/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
